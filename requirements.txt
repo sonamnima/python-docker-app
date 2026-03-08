@@ -1,1 +1,8 @@
 flask
+pypdf
+langchain
+sentence-transformers
+faiss-cpu
+torch
+numpy==1.26.4
+packaging==25.0
